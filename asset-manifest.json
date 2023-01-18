@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MLB_ballparks_viz/static/css/main.36d00d34.css",
+    "main.js": "/MLB_ballparks_viz/static/js/main.59f866c6.js",
+    "index.html": "/MLB_ballparks_viz/index.html",
+    "main.36d00d34.css.map": "/MLB_ballparks_viz/static/css/main.36d00d34.css.map",
+    "main.59f866c6.js.map": "/MLB_ballparks_viz/static/js/main.59f866c6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36d00d34.css",
+    "static/js/main.59f866c6.js"
+  ]
+}
