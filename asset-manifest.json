@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/MLB_ballparks_viz/static/css/main.36d00d34.css",
-    "main.js": "/MLB_ballparks_viz/static/js/main.59f866c6.js",
+    "main.css": "/MLB_ballparks_viz/static/css/main.3492ddab.css",
+    "main.js": "/MLB_ballparks_viz/static/js/main.1739e6e6.js",
     "index.html": "/MLB_ballparks_viz/index.html",
-    "main.36d00d34.css.map": "/MLB_ballparks_viz/static/css/main.36d00d34.css.map",
-    "main.59f866c6.js.map": "/MLB_ballparks_viz/static/js/main.59f866c6.js.map"
+    "main.3492ddab.css.map": "/MLB_ballparks_viz/static/css/main.3492ddab.css.map",
+    "main.1739e6e6.js.map": "/MLB_ballparks_viz/static/js/main.1739e6e6.js.map"
   },
   "entrypoints": [
-    "static/css/main.36d00d34.css",
-    "static/js/main.59f866c6.js"
+    "static/css/main.3492ddab.css",
+    "static/js/main.1739e6e6.js"
   ]
 }
