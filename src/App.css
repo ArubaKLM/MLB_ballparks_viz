@@ -13,7 +13,7 @@ pre {
   background-color: #153842;
 }
 .legend-label {
-  font-size: 1.5em;
+  font-size: 1.5em; 
   fill: #635F5D;
   color: #635F5D;
 }
@@ -26,12 +26,30 @@ pre {
   margin-left: 50px;
   margin-right: 5px;
 }
+a {
+  color: #C0C0BB;
+  align-items: center;
+}
+a:hover, a:focus {
+  color: beige;
+}
+
+.footnote-label {
+  font-size: 1em;
+  margin-left: 30px;
+  color: #ffffff;
+  align-items: center;
+  font-family: 'Poppins';
+}
 .Dropdown-root {
   width: 200px;
   display: inline-block;
 }
 .Dropdown-menu {
   max-height: 400px;
+}
+.title-box, .footnote-box{
+  background-color: #153842;
 }
 .menus-container {
   margin-top: 10px;
@@ -76,15 +94,19 @@ pre {
   background: #eee;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.marks .land {
+  fill: #ececec;
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.marks .sphere {
+  fill: #fbfbfb;
+}
+.marks .interiors {
+  fill: none;
+  stroke: #d9dfe0;
+}
+.marks .graticules {
+  fill: none;
+  stroke: #ececec;
 }
 
 .App-header {

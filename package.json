@@ -6,9 +6,13 @@
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+    "d3": "^7.8.1",
+    "gh-pages": "^4.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-scripts": "5.0.1",
+    "react-dropdown": "^1.11.0",
+    "react-scripts": "^5.0.1",
+    "topojson": "^3.0.2",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
@@ -37,5 +41,5 @@
       "last 1 safari version"
     ]
   },
-  "homepage" : "https://arubaklm.github.io/MLB_ballparks_viz"
+  "homepage": "https://arubaklm.github.io/MLB_ballparks_viz"
 }
